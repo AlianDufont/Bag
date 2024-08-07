@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group ni Bag</title>
+    <style>
+        body {
+            background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreebackground%2Fcontemporary-art-intriguing-textured-painting_13301418.html&psig=AOvVaw3QLKkfNYzLSTy7371DgMFM&ust=1723117127382000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCK7LHl4ocDFQAAAAAdAAAAABAS) no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(51, 51, 51, 0.8);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #ffcc00;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Group ni Bag</h1>
+        <p>Aidan is a young man who really wants to be a painter, but he has a lot of doubts in his mind, so he can't continue. Because of his doubts, Aidan became inspired by Van Gogh's "Starry Night" painting because of the meaning of this painting. One day, Aidan thought to watch a performance opera to clear his mind. He met Hiro, who is a conductor. They became friends and found out that they felt the same way about themselves. Until they helped and reached the top of the success they had always hoped for. The building represents our dreams; because of its height, we doubt ourselves, but if we work hard, we will reach the top that we only looked up to before.</p>
+    </div>
+</body>
+</html>
